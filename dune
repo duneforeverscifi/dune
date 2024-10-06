@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Abdullah Jahufar - Campaign</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #000;
+      color: #fff;
+      text-align: center;
+    }
+
+    header {
+      background: linear-gradient(90deg, #004d00, #004c99);
+      padding: 20px 0;
+    }
+
+    header h1 {
+      font-size: 2.5em;
+      color: white;
+    }
+
+    .menu {
+      list-style: none;
+      padding: 10px;
+    }
+
+    .menu li {
+      display: inline;
+      margin: 0 15px;
+    }
+
+    .menu a {
+      color: white;
+      text-decoration: none;
+      font-size: 1.2em;
+    }
+
+    .banner {
+      height: 300px;
+      background-image: url('https://www.example.com/banner-image.jpg'); /* Replace with your banner */
+      background-size: cover;
+      background-position: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+
+    .banner-content h2 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+
+    .banner-content p {
+      font-size: 1.5em;
+      max-width: 600px;
+    }
+
+    footer {
+      background-color: #222;
+      padding: 20px;
+    }
+
+    .footer-container {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .social {
+      list-style: none;
+    }
+
+    .social li {
+      display: inline-block;
+      margin: 0 10px;
+    }
+
+    .social a {
+      color: white;
+      text-decoration: none;
+      font-size: 1.5em;
+    }
+
+    .footer-container p {
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>ABDULLAH JAHUFAR</h1>
+    <nav>
+      <ul class="menu">
+        <li><a href="#vision">Vision</a></li>
+        <li><a href="#membership">Membership</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#project">Project 2025</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="vision" class="banner">
+    <div class="banner-content">
+      <h2>Vision</h2>
+      <p>No matter the project, our team can handle it. Ronaldo is the GOAT SUIIIIIIIII.</p>
+      <p>Make me president PLZZZ. Free invite to diddy party for whoever votes.</p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="footer-container">
+      <ul class="social">
+        <li><a href="#">WhatsApp</a></li>
+        <li><a href="#">Instagram</a></li>
+      </ul>
+      <p>Copyright &copy; 2024 Abdullah Jahufar</p>
+    </div>
+  </footer>
+</body>
+</html>
